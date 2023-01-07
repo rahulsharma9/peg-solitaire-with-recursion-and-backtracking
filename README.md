@@ -1,1 +1,2 @@
-# peg-solitaire-with-recursion-and-backtracking
+
+This program solves the Peg Solitaire using recursion and backtracking. 
